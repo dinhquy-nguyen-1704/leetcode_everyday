@@ -1,5 +1,5 @@
 # leetcode_everday
-Welcome to my **leetcode_everyday** repository! This repository contains solutions that I have worked on for problems on LeetCode since May 2023.
+Welcome to my **leetcode_everyday** repository! This repository contains solutions that I have worked on for problems on [LeetCode](https://leetcode.com/nguyendinhquy/) since May 2023.
 
 ## Objective
 This repository serves as a personal journey through my self-study of data structures and algorithms. It is a testament to my progress and a platform to share the solutions I have crafted for LeetCode problems.
