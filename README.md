@@ -1,4 +1,4 @@
-# leetcode_everday
+# leetcode_everyday
 Welcome to my **leetcode_everyday** repository! This repository contains solutions that I have worked on for problems on [LeetCode](https://leetcode.com/nguyendinhquy/) since May 2023.
 
 ## Objective
